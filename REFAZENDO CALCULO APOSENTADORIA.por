@@ -1,5 +1,5 @@
-programa{
-	funcao inicio(){
+programa{
+	funcao inicio(){
 	   inteiro codigo
 	   cadeia nascimento
 	   inteiro ano_entrada
@@ -37,7 +37,7 @@ programa{
         escreva("Tempo de trabalho: ",tempo_trabalho)
         escreva("\n")
 
-        se(idade>=65 e tempo_trabalho>=30 ou (idade>=60 e tempo_trabalho>=25)){
+        se(idade>=65 ou tempo_trabalho>=30 ou (idade>=60 e tempo_trabalho>=25)){
          escreva("Requerer aposentadoria")
 	}senao{
 		escreva("Não requerer")
@@ -54,7 +54,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1061; 
+ * @POSICAO-CURSOR = 1103; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
