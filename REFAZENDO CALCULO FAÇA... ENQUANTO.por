@@ -12,7 +12,7 @@ programa{
 	  	escreva("Digite o 2° valor (não pode ser zero): ")
 	  	leia(valorDois)
 	  	escreva("\n")
-	  }enquanto(valorDois<=0)
+	  }enquanto(valorDois==0)
 
 	  resultado = valorUm / valorDois
 
@@ -26,7 +26,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 164; 
+ * @POSICAO-CURSOR = 291; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
