@@ -1,5 +1,5 @@
-programa{
-	funcao inicio(){
+programa{
+	funcao inicio(){
 	   inteiro K
 
 	   para(K=1;K<=10;K++){
@@ -16,7 +16,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 107; 
+ * @POSICAO-CURSOR = 102; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
